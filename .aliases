@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-alias t="tree"
 alias l="ls -lasH"
+alias t="tree"
+alias tf="terraform"
