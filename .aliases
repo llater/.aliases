@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+
 alias l="ls -lasH"
 alias t="tree"
 alias tf="terraform"
+alias cb="git rev-parse --abbrev-ref HEAD"
